@@ -1,0 +1,113 @@
+Customer ID,record_number,number1,number2,first_name,last_name,street,city,state,zip,Vehicle,Year,Make,Model,deal_type,Current Payment,Interest Rate,VIN Number,eMail address,Sales Person,Dealer_Name,Mileage,Dealership ID,lead_id,Interior Color,Exterior Color,Book Date,Down Payment,Term,Extended Warranty,Percentile
+6253229,228,,,Charles,Worswick,,,,,passenger car,2013,toyota,camry,Retail,318.08,0,4T4BF1FK5DR297692,,Troy Thompson,,299,208,161201,"""""","""""",2013-09-28,5000,60,"""""",85
+6242067,39,,,Ang,Sherpa,,,,,passenger car,2013,toyota,camry,Retail,400,0,4T1BF1FK2DU261551,,Tommy Chau,,84730,208,161390,"""""",blk,2013-08-29,0,60,"""""",89
+6253790,114,,,Laxmi,Shrestha,,,,,passenger car,2014,toyota,camry,Retail,337.66,0,4T1BF1FK6EU743697,,Steven L Walton,,9,208,161315,"""""",white,2013-10-14,3000,60,"""""",87
+6255394,44,,,Kimberly,Kasper,,,,,passenger car,2013,toyota,camry,Retail,537.94,0,4T1BD1FK2DU074008,,Scott Bolin,,123,208,161385,"""""","""""",2013-09-30,0,60,"""""",82
+6258612,30,,,Johnny,Lau,,,,,passenger car,2015,toyota,camry,Retail,307.04,0.019,4T1BF1FK2FU903351,,Aaron Keith,,4,208,161399,"""""","""""",2014-12-29,15000,48,"""""",92
+6256173,161,,,Huong,Pham,,,,,passenger car,2014,toyota,camry,Retail,457.71,0.053,4T1BF1FK9EU765841,,Rainny Nguyen,,19,208,161268,"""""",gry,2014-01-13,6000,60,"""""",86
+6254050,227,,,Stephanie,Guadagnoli,,,,,passenger car,2013,toyota,camry,Retail,435.98,0.0555,4T4BF1FK5DR323076,,Tommy Chau,,10,208,161202,"""""",gry,2013-08-26,0,60,"""""",86
+6251645,94,,,Andrea,Nelson,,,,,passenger car,2014,toyota,camry,Retail,219.47,0,4T1BF1FK4EU754908,,Tim Slater,,12,208,161335,"""""","""""",2013-11-21,5000,60,"""""",89
+6255322,139,,,Charles,Forrest,,,,,passenger car,2013,toyota,camry,Retail,441.55,0,4T1BK1FK5DU533229,,"""""",,2,208,161290,"""""","""""",2013-09-23,1500,60,"""""",84
+6264951,177,,,Thanh,Pham,,,,,passenger car,2013,toyota,camry,Retail,300.28,0.0399,4T4BF1FK1DR326993,,Dien Le Luong,,18138,208,161252,"""""",gray,2015-09-15,6000,36,"""""",91
+6252029,253,,,Rajasekhar,Marla,,,,,passenger car,2013,toyota,camry,Retail,391.18,0,4T4BF1FK2DR332530,,Scott Bolin,,199,208,161176,"""""",black,2013-10-14,0,60,"""""",84
+6258731,232,,,Edna,Waites,,,,,passenger car,2014,toyota,camry,Retail,378.38,0.0175,4T4BF1FK4ER382511,,Les Cockerell,,91,208,161197,"""""",tan,2014-02-19,10000,48,"""""",87
+6256458,66,,,Juan,Guzman,,,,,passenger car,2014,toyota,camry,Retail,490.71,0.029,4T1BF1FK1EU758575,,Rainny Nguyen,,345,208,161363,"""""",blk,2014-02-28,1500,60,"""""",89
+6259104,206,,,Yasmen,Smith,,,,,passenger car,2014,toyota,camry,Retail,469,0.0559,4T4BF1FK7ER372524,,Sam Scarlett,,0,208,161223,"""""","""""",2014-01-31,2500,60,"""""",86
+6254602,25,,,"""",Gollery,,,,,passenger car,2013,toyota,camry,Retail,447.91,0.017,4T1BD1FK4DU071935,,Troy Thompson,,59376,208,161404,"""""","""""",2013-04-01,18000,36,"""""",93
+6252404,88,,,Scotty,Jones,,,,,passenger car,2013,toyota,camry,Retail,500,0,4T1BF1FK0DU220013,,Edward Wheaton,,2,208,161341,"""""","""""",2013-07-08,0,60,"""""",83
+6258527,163,,,Fedrico,Ortega,,,,,passenger car,2014,toyota,camry,Retail,255.63,0,4T1BF1FK9EU381171,,"""""",,3,208,161266,"""""","""""",2014-03-20,8000,48,"""""",89
+6253597,155,,,Celia,Castillo,,,,,passenger car,2013,toyota,camry,Retail,446.99,0,4T1BF1FKXDU265587,,"""""",,36,208,161274,"""""",gry,2013-07-29,0,60,"""""",87
+6246915,53,,,Jeffrey,Booher,,,,,passenger car,2013,toyota,camry,Retail,478.13,0,4T1BD1FK0DU070393,,"""""",,163,208,161376,"""""","""""",2013-07-09,2000,60,"""""",85
+6260587,182,,,Douglas,Reynolds,,,,,passenger car,2014,toyota,camry,Retail,260,0,4T4BF1FK0ER366600,,Dien Le Luong,,19,208,161247,"""""",blu,2014-01-29,6600,60,"""""",87
+6259572,33,,,William,Gusik,,,,,passenger car,2014,toyota,camry,Retail,419.68,0,4T1BF1FK2EU752929,,"""""",,12,208,161396,"""""","""""",2014-01-28,0,60,"""""",86
+6251390,187,,,Sang,Tran,,,,,passenger car,2013,toyota,camry,Retail,435.55,0,4T4BF1FK0DR325785,,Dien Le Luong,,4,208,161242,"""""",whi,2013-07-08,0,60,"""""",85
+6259656,205,,,Sheila,Wright,,,,,passenger car,2014,toyota,camry,Retail,459.84,0.0174,4T4BF1FK7ER376850,,Scott Bolin,,29556,208,161224,"""""","""""",2014-08-22,20000,20,"""""",85
+6255018,102,,,Jessica,Brown,,,,,passenger car,2014,toyota,camry,Retail,350.35,0,4T1BF1FK7EU347987,,Les Cockerell,,16,208,161327,"""""",white,2013-12-31,4000,60,"""""",87
+6252612,4,,,Allen,Mueller,,,,,passenger car,2013,toyota,camry,Retail,439.2,0,4T1BF1FK8DU262932,,Kevin Feagins,,2,208,161425,"""""","""""",2013-06-07,2000,60,"""""",86
+6250834,243,,,Ron,Driessner,,,,,passenger car,2013,toyota,camry,Retail,355.72,0.019,4T4BF1FK3DR311928,,Mark Stoller,,7,208,161186,"""""",gry,2013-08-17,4000,60,"""""",85
+6251025,42,,,Travis,Richins,,,,,passenger car,2013,toyota,camry,Retail,397.52,0,4T1BF1FK2DU209420,,"""""",,200,208,161387,"""""",gry,2013-03-25,1000,60,"""""",92
+6254132,48,,,Janice,Daneman,,,,,passenger car,2013,toyota,camry,Retail,585.02,0,4T1BD1FK1DU073626,,Les Cockerell,,26,208,161381,"""""",blk,2013-10-29,0,60,"""""",83
+6262320,231,,,Anh,Pham,,,,,passenger car,2015,toyota,camry,Retail,250,0.0199,4T4BF1FK4FR474834,,Rainny Nguyen,,10,208,161198,"""""",whi,2015-03-16,9000,48,"""""",92
+6251306,117,,,Thomas,Crites,,,,,passenger car,2014,toyota,camry,Retail,259.87,0.022,4T1BF1FK6EU340156,,"""""",,4,208,161312,"""""","""""",2013-11-29,10000,59,"""""",89
+6256711,128,,,Rudolph,Panacci,,,,,passenger car,2013,toyota,camry,Retail,294.93,0.0399,4T1BF1FK6DU208769,,William M Bates,,18296,208,161301,"""""",silver,2014-08-14,4000,48,"""""",89
+6250460,237,,,Luriel,Ellis,,,,,passenger car,2013,toyota,camry,Retail,295.21,0.019,4T4BF1FK4DR284299,,Xay W Xiong,,51,208,161192,"""""",red,2013-02-27,5374,60,"""""",92
+6250494,23,,,Anita,Sloan,,,,,passenger car,2014,toyota,camry,Retail,537.95,0,4T1BD1FK6EU105813,,Tommy Chau,,198,208,161406,"""""",gld,2013-12-02,0,60,"""""",87
+6252664,16,,,Raymond,Jones,,,,,passenger car,2013,toyota,camry,Retail,465.32,0,4T1BD1FKXDU093051,,Les Cockerell,,22,208,161413,"""""",white,2013-09-06,0,60,"""""",86
+6260872,103,,,Thanh,Dinh,,,,,passenger car,2014,toyota,camry,Retail,411.88,0,4T1BF1FK7EU337296,,Rainny Nguyen,,4,208,161326,"""""","""""",2014-01-30,2000,60,"""""",85
+6261247,144,,,Randy,Abbey,,,,,passenger car,2015,toyota,camry,Retail,317.39,0.0225,4T1BK1FK2FU560701,,Tommy Chau,,384,208,161285,"""""","""""",2015-06-26,10000,36,"""""",91
+6250547,215,,,Jau,Yep,,,,,passenger car,2013,toyota,camry,Retail,349,0.0299,4T4BF1FK6DR319196,,Edward Wheaton,,47,208,161214,"""""",white,2013-07-25,6000,60,"""""",85
+6253852,67,,,Devi,Kharel,,,,,passenger car,2014,toyota,camry,Retail,367.12,0,4T1BF1FK1EU745972,,Scott Bolin,,265,208,161362,"""""","""""",2013-11-12,0,60,"""""",87
+6251453,131,,,Bobby,Jordan,,,,,passenger car,2014,toyota,camry,Retail,463.77,0.0175,4T1BK1FK8EU539060,,Les Cockerell,,50,208,161298,"""""",white,2013-09-30,7900,60,"""""",87
+6250715,78,,,Kimberly,Owen,,,,,passenger car,2013,toyota,camry,Retail,292.86,0.0374,4T1BF1FK1DU286828,,Kenneth Laird,,379,208,161351,"""""",gray,2013-09-25,11000,60,"""""",86
+6252356,35,,,Mei,Huang,,,,,passenger car,2013,toyota,camry,Retail,304.71,0.029,4T1BF1FK2DU716933,,Tom Xiong,,10,208,161394,"""""",red,2013-08-14,5000,60,"""""",86
+6252574,6,,,Laneece,Yarbough,,,,,passenger car,2013,toyota,camry,Retail,498,0,4T1BF1FK8DU238131,,Troy Thompson,,437,208,161423,"""""",blk,2014-01-02,0,60,"""""",84
+6254282,153,,,Wendy,Rainwater,,,,,passenger car,2013,toyota,camry,Retail,291.41,0.022,4T1BF1FKXDU656688,,"""""",,15,208,161276,"""""","""""",2013-05-20,0,60,"""""",87
+6252214,181,,,Mary,Mayer,,,,,passenger car,2013,toyota,camry,Retail,439.93,0,4T4BF1FK1DR307893,,"""""",,5,208,161248,"""""",white/grey,2013-05-17,0,60,"""""",85
+6254781,27,,,Angela,Beaty,,,,,passenger car,2013,toyota,camry,Retail,439.75,0.0299,4T1BD1FK3DU074339,,"""""",,99777,208,161402,"""""",gry,2013-04-30,3000,66,"""""",92
+6374930,126,,,Tuan,Vu,,,,,passenger car,2013,toyota,camry,Retail,255,0.019,4T1BF1FK6DU216922,,"""""",,3,208,161303,"""""",gry,2013-02-18,18000,24,"""""",93
+6250626,166,,,Danh,Luong,,,,,passenger car,2013,toyota,camry,Retail,283.33,0,4T1BF1FK9DU671084,,Dien Le Luong,,52,208,161263,"""""",sil,2013-08-23,5000,60,"""""",85
+6253349,179,,,Weldon,Grovey,,,,,passenger car,2013,toyota,camry,Retail,209.66,0,4T4BF1FK1DR311653,,"""""",,2,208,161250,"""""","""""",2013-06-14,13000,60,"""""",87
+6255361,92,,,Govardhan,Serla,,,,,passenger car,2013,toyota,camry,Retail,382.02,0,4T1BF1FK5DU265450,,"""""",,18,208,161337,"""""","""""",2013-08-15,0,60,"""""",84
+6256023,172,,,Thomas,Duncan,,,,,passenger car,2014,toyota,camry,Retail,328.7,0.0225,4T1BF1FK8EU453459,,Rudy Ceniceros,,8,208,161257,"""""","""""",2014-10-06,0,36,"""""",92
+6256725,34,,,Huy,Pham,,,,,passenger car,2014,toyota,camry,Retail,478,0,4T1BF1FK2EU357651,,Rainny Nguyen,,3,208,161395,"""""","""""",2014-01-17,0,60,"""""",87
+6254107,203,,,Ulana,Ratley,,,,,passenger car,2013,toyota,camry,Retail,391.22,0.019,4T4BF1FK8DR324478,,"""""",,20,208,161226,"""""","""""",2013-07-08,4000,60,"""""",85
+6252531,158,,,Hoa,Pham,,,,,passenger car,2013,toyota,camry,Retail,345.02,0.009,4T1BF1FKXDU219502,,Steve D Luu,,6,208,161271,"""""",gry,2013-03-15,0,60,"""""",91
+6251670,46,,,Dana,Barber,,,,,passenger car,2014,toyota,camry,Retail,303.23,0.0299,4T1BD1FK1EU134345,,Troy Thompson,,16,208,161383,"""""","""""",2014-09-04,15000,48,"""""",86
+6255231,142,,,Ron,Reed,,,,,passenger car,2013,toyota,camry,Retail,490.41,0.02,4T1BK1FK4DU537269,,Scott Bolin,,499,208,161287,"""""",whi,2013-09-25,0,60,"""""",86
+6255059,2,,,Thomas,Faulkner,,,,,passenger car,2013,toyota,camry,Retail,335.86,0,4T1BF1FK8DU281044,,Edward Wheaton,,13,208,161427,"""""",sil,2013-07-15,4685.58,60,"""""",85
+6250429,105,,,Stan,Gershengoren,,,,,passenger car,2013,toyota,camry,Retail,481.34,0,4T1BF1FK7DU721402,,Scott Bolin,,345,208,161324,"""""","""""",2013-09-02,0,60,"""""",85
+6253368,108,,,"""""","""""",,,,,passenger car,2013,toyota,camry,Retail,423.57,0,4T1BF1FK7DU673447,,David B Shegda,,2,208,161321,"""""","""""",2013-04-01,0,60,"""""",92
+6260726,65,,,Jimmie,Blundell,,,,,passenger car,2013,toyota,camry,Retail,218.42,0.0299,4T1BF1FK3DU234522,,"""""",,14133,208,161364,"""""",gry,2014-07-14,0,48,"""""",89
+6250748,122,,,Joseph,Lynn,,,,,passenger car,2013,toyota,camry,Retail,648.32,0,4T1BF1FK6DU291734,,David B Shegda,,379,208,161307,"""""",gray,2013-10-01,0,60,"""""",81
+6259053,249,,,Thu,Nguyen,,,,,passenger car,2014,toyota,camry,Retail,463.88,0,4T4BF1FK2ER440955,,Russell Nguyen,,8,208,161180,"""""",gld,2014-09-30,7000,36,"""""",86
+6255338,121,,,Libba,Merryman,,,,,passenger car,2013,toyota,camry,Retail,303.36,0.019,4T1BF1FK6DU295847,,Kenneth Laird,,224,208,161308,"""""","""""",2013-11-01,1173.12,48,"""""",87
+6253630,38,,,Alan,Hermann,,,,,passenger car,2013,toyota,camry,Retail,342.71,0.0445,4T1BF1FK2DU290418,,Edward Wheaton,,15,208,161391,"""""","""""",2013-07-29,7000,60,"""""",85
+6254723,107,,,Hong,Bui,,,,,passenger car,2013,toyota,camry,Retail,393.1,0,4T1BF1FK7DU692418,,Steve D Luu,,71,208,161322,"""""",blk,2013-10-01,5000,60,"""""",85
+6254649,173,,,Daniel,Kang,,,,,passenger car,2014,toyota,camry,Retail,385.87,0,4T1BF1FK8EU349196,,Kenneth Laird,,190,208,161256,"""""",gray,2013-12-24,0,60,"""""",86
+6255108,156,,,Manuel,Juarez,,,,,passenger car,2013,toyota,camry,Retail,339.35,0,4T1BF1FKXDU262463,,Kenneth Laird,,227,208,161273,"""""","""""",2013-09-30,10000,48,"""""",87
+6245494,214,,,Philip,Wilkinson,,,,,passenger car,2013,toyota,camry,Retail,369.69,0,4T4BF1FK6DR326200,,Tommy Abernathy,,12,208,161215,"""""",white,2013-09-09,913.29,60,"""""",85
+6253645,47,,,John,Mills,,,,,passenger car,2013,toyota,camry,Retail,397.51,0,4T1BD1FK1DU074033,,Sam Scarlett,,7,208,161382,"""""","""""",2013-07-16,0,60,"""""",81
+6253412,217,,,Deborah,Lau,,,,,passenger car,2013,toyota,camry,Retail,250,0,4T4BF1FK6DR292792,,Tom Xiong,,3,208,161212,"""""",sil,2013-04-20,8150,60,"""""",92
+6252193,113,,,Susan,Cannizzaro,,,,,passenger car,2014,toyota,camry,Retail,379.35,0,4T1BF1FK6EU745014,,Scott Bolin,,11,208,161316,"""""",blue,2013-11-21,33.48,60,"""""",85
+6252805,224,,,Janice,Day,,,,,passenger car,2014,toyota,camry,Retail,345,0.0199,4T4BF1FK5ER368312,,Adam Minkley,,10,208,161205,"""""","""""",2014-01-02,8028.74,60,"""""",87
+6254467,60,,,Tahera,Chowdhury,,,,,passenger car,2013,toyota,camry,Retail,402.14,0.0199,4T1BF1FK3DU672733,,Adam Minkley,,24,208,161369,"""""",gry,2013-06-17,0,60,"""""",85
+6253253,171,,,Lawrence,Burtz,,,,,passenger car,2014,toyota,camry,Retail,362.47,0,4T1BF1FK8EU748416,,Sam Scarlett,,7,208,161258,"""""","""""",2013-10-28,4500,60,"""""",87
+6252995,127,,,Frank,Roso,,,,,passenger car,2013,toyota,camry,Retail,468.02,0.019,4T1BF1FK6DU215608,,Kenneth Laird,,4,208,161302,"""""",blue,2013-02-11,0,60,"""""",92
+6253451,24,,,Russell,Huntley,,,,,passenger car,2014,toyota,camry,Retail,417.06,0.071,4T1BD1FK4EU105602,,Les Cockerell,,12,208,161405,"""""","""""",2014-01-27,0,60,"""""",84
+6252087,208,,,Rebecca,Burgess,,,,,passenger car,2013,toyota,camry,Retail,339.59,0.022,4T4BF1FK7DR323337,,Scott Bolin,,12,208,161221,"""""",red,2013-08-17,9500,48,"""""",87
+6251274,43,,,Timothy,Guthrie,,,,,passenger car,2013,toyota,camry,Retail,567.8,0,4T1BD1FK2DU077216,,"""""",,12,208,161386,"""""","""""",2013-05-31,0,60,"""""",85
+6246320,17,,,Joan,Harrison,,,,,passenger car,2013,toyota,camry,Retail,515.68,0.0249,4T1BD1FK9DU090108,,Michael A Winhold,,206,208,161412,"""""","""""",2013-11-21,0,36,"""""",86
+6252105,135,,,Virginia,Hill,,,,,passenger car,2013,toyota,camry,Retail,525.31,0.019,4T1BK1FK7DU535533,,Dien Le Luong,,187,208,161294,"""""",whi,2013-08-27,1000,48,"""""",87
+6251962,254,,,Carolyn,Hardwick,,,,,passenger car,2013,toyota,camry,Retail,462.7,0,4T4BF1FK2DR328493,,Kenneth Laird,,68,208,161175,"""""","""""",2013-08-06,1000,60,"""""",87
+6236170,175,,,Helen,Johnson,,,,,passenger car,2014,toyota,camry,Retail,385,0,4T4BF1FK1ER347845,,Tommy Chau,,7,208,161254,"""""",gray,2013-11-08,448.51,60,"""""",87
+6253428,81,,,Matthew,Curtis,,,,,passenger car,2014,toyota,camry,Retail,368.82,0,4T1BF1FK0EU740293,,Scott Bolin,,68,208,161348,"""""","""""",2013-12-24,0,60,"""""",85
+6254075,192,,,Amarachi,Aririatu,,,,,passenger car,2014,toyota,camry,Retail,455.29,0,4T4BF1FK9ER352999,,Dane Minor,,"""""",208,161237,"""""","""""",2014-01-02,0,60,"""""",87
+6252670,130,,,Cordelia,Gutierrez,,,,,passenger car,2013,toyota,camry,Retail,477,0,4T1BK1FKXDU532366,,"""""",,6,208,161299,"""""","""""",2013-10-11,7834.14,60,"""""",85
+6251642,245,,,Neal,Kirkendoll,,,,,passenger car,2013,toyota,camry,Retail,451.7,0,4T4BF1FK3DR300430,,Michael D Mcdonald,,246,208,161184,"""""","""""",2013-07-29,2000,60,"""""",87
+6253092,112,,,Linda,Criswell,,,,,passenger car,2014,toyota,camry,Retail,558.58,0,4T1BF1FK6EU766381,,Kenneth Laird,,5,208,161317,"""""",red,2013-12-16,0,60,"""""",85
+6250677,8,,,James,Tran,,,,,passenger car,2013,toyota,camry,Retail,426.17,0.052,4T1BF1FK8DU211768,,"""""",,256,208,161421,"""""","""""",2013-05-31,4395.72,60,"""""",86
+6260867,32,,,Jean,Courtney,,,,,passenger car,2014,toyota,camry,Retail,498.67,0.0195,4T1BF1FK2EU779046,,Troy Thompson,,6,208,161397,"""""","""""",2014-01-24,2163.7,36,"""""",87
+6238203,82,,,Nick,Pawar,,,,,passenger car,2014,toyota,camry,Retail,390.06,0,4T1BF1FK0EU302406,,Devendra B Sing,,11,208,161347,"""""",blk,2013-12-02,0,60,"""""",86
+6250808,80,,,James,Ballinger,,,,,passenger car,2014,toyota,camry,Retail,379,0,4T1BF1FK0EU745509,,Sam Scarlett,,54234,208,161349,"""""","""""",2013-10-28,0,60,"""""",87
+6258422,238,,,Douglas,Hughes,,,,,passenger car,2014,toyota,camry,Retail,452.33,0.0199,4T4BF1FK3ER444030,,Giulia Paredes,,12,208,161191,"""""","""""",2014-11-15,10000,36,"""""",87
+6252764,56,,,Virginia,Krueger,,,,,passenger car,2014,toyota,camry,Retail,550.89,0,4T1BF1FK3EU759887,,Sam Scarlett,,442,208,161373,"""""",mgray,2013-12-23,0,60,"""""",85
+6265060,225,,,Velmurugan,Mariappan,,,,,passenger car,2013,toyota,camry,Retail,326.07,0.1045,4T4BF1FK5DR325572,,Dwaine Baldwin,,22387,208,161204,"""""","""""",2015-10-09,6200,36,"""""",88
+6251223,115,,,Barbara,Burks,,,,,passenger car,2014,toyota,camry,Retail,562.87,0,4T1BF1FK6EU728875,,Scott Bolin,,112,208,161314,"""""","""""",2013-10-16,0,60,"""""",87
+6253703,184,,,John,Foster,,,,,passenger car,2013,toyota,camry,Retail,437.56,0,4T4BF1FK0DR336186,,Xay W Xiong,,6,208,161245,"""""",whi,2013-09-03,2000,60,"""""",86
+6257334,250,,,Mi,Chung,,,,,passenger car,2014,toyota,camry,Retail,350,0,4T4BF1FK2ER383611,,Troy Thompson,,6,208,161179,"""""","""""",2014-02-17,3700,60,"""""",86
+6252055,257,,,Paul,Strong,,,,,passenger car,2013,toyota,camry,Retail,299.54,0.0295,4T4BF1FK2DR313590,,Kenneth Laird,,56024,208,161172,"""""",green,2013-07-02,0,60,"""""",86
+6247049,167,,,Allen,Blake,,,,,passenger car,2013,toyota,camry,Retail,453.2,0,4T1BF1FK9DU284695,,Troy Thompson,,12,208,161262,"""""","""""",2013-07-29,0,60,"""""",87
+6237896,95,,,David,Hight,,,,,passenger car,2014,toyota,camry,Retail,321.28,0,4T1BF1FK4EU752351,,Kevin Feagins,,9,208,161334,"""""",red,2014-01-06,10000,60,"""""",86
+6254514,258,,,Henry,Erwin,,,,,passenger car,2013,toyota,camry,Retail,334.29,0.0199,4T4BF1FK2DR311029,,Edward Wheaton,,9,208,161171,"""""",sil,2013-06-17,12500,42,"""""",87
+6255202,83,,,"""""","""""",,,,,passenger car,2013,toyota,camry,Retail,547.81,0.0949,4T1BF1FK0DU692504,,Steve D Luu,,31,208,161346,"""""",gry,2013-08-30,2000,66,"""""",79
+6237890,157,,,Tammy,Owen,,,,,passenger car,2013,toyota,camry,Retail,599.53,0,4T1BF1FKXDU238504,,David B Shegda,,24,208,161272,"""""",sil,2013-07-15,0,60,"""""",83
+6253548,89,,,Maria,Salazar,,,,,passenger car,2014,toyota,camry,Retail,437.06,0,4T1BF1FK5EU772138,,Rudy Ceniceros,,46,208,161340,"""""",blk,2014-01-02,0,60,"""""",87
+6257374,233,,,Frankie,Yee,,,,,passenger car,2014,toyota,camry,Retail,391.77,0,4T4BF1FK4ER373890,,Shane Creek,,13,208,161196,"""""",gray,2014-03-03,4500,60,"""""",85
+6251607,154,,,Leslie,Pierson,,,,,passenger car,2013,toyota,camry,Retail,356.22,0.0195,4T1BF1FKXDU656125,,Michael A Winhold,,2,208,161275,"""""","""""",2013-03-25,6000,60,"""""",91
+6251689,79,,,Edgardo,Bosque,,,,,passenger car,2013,toyota,camry,Retail,505.3,0.1082,4T1BF1FK1DU213409,,Charles Denson,,3,208,161350,"""""","""""",2013-01-29,1000,72,"""""",92
+6250505,86,,,Greg,Bonavia,,,,,passenger car,2013,toyota,camry,Retail,219.78,0,4T1BF1FK0DU290675,,Kenneth Laird,,28,208,161343,"""""",gray,2013-08-23,10000,60,"""""",87
+6253184,72,,,Sandra,Johnson,,,,,passenger car,2013,toyota,camry,Retail,395.45,0,4T1BF1FK1DU721668,,"""""",,12,208,161357,"""""","""""",2013-12-31,5000,60,"""""",85
+6255360,145,,,Betsy,Baker,,,,,passenger car,2014,toyota,camry,Retail,329.23,0.019,4T1BK1FK2EU025141,,Les Cockerell,,5,208,161284,"""""","""""",2013-12-09,17000,48,"""""",88
+6251074,73,,,Mindy,Nguyen,,,,,passenger car,2013,toyota,camry,Retail,335.68,0.0299,4T1BF1FK1DU703400,,Steve D Luu,,54,208,161356,"""""",blk,2013-07-01,9000,36,"""""",87
+6253744,37,,,Edison,Nguyen,,,,,passenger car,2013,toyota,camry,Retail,437.32,0,4T1BF1FK2DU293920,,Tommy Chau,,4,208,161392,"""""",blk,2013-09-05,0,60,"""""",85
+6250933,207,,,Barney,Jenkins,,,,,passenger car,2014,toyota,camry,Retail,393.51,0,4T4BF1FK7ER353973,,Scott Bolin,,8,208,161222,"""""",champagne,2013-10-30,0,60,"""""",87

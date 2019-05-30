@@ -10,8 +10,8 @@ CSV.foreach(customers_file, headers: true, converters: :numeric) do |customer_da
   end
 end
 
-sorted_customers = customers_data[0...50].sort_by{ |customer_data| [-customer_data["Percentile"].to_i, -customer_data["last_name"]]}
+sorted_customers = customers_data.sort_by{ |customer_data| [-customer_data["Percentile"].to_i, -customer_data["last_name"]]}
 
-target_customers = sorted_customers.map do |customer|
+target_customers = sorted_customers[0...50].map do |customer|
   puts "#{customer["Customer ID"]} #{customer["Percentile"]} #{customer["first_name"]} #{customer["last_name"]}"
 end
